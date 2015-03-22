@@ -3,6 +3,8 @@
 # Mattias Eriksson <snaggen@acc.umu.se>, 2011.
 # Richard Levitte <richard@levitte.org>, 2012, 2013.
 #
+#   Ingen aning om hur man ändrar här men förslag ligger i kommentarsfältet
+#
 # Ordhjälp:
 #
 # demosaicing         demosaicking (ref: http://cstjanster.idg.se/sprakwebben/ord.asp?ord=demosaicking)
